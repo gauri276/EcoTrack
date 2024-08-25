@@ -53,7 +53,7 @@ Gamified Engagement:
 
 **Leaderboard**: A leaderboard to track and encourage users to reduce their carbon footprint, enhancing user engagement through gamification.
 OpenText Content Services API Integration:
-Storage Solution: We leverage OpenText Content Services API for efficient storage and retrieval of user data. (Special thanks to OpenText for sponsoring this hackathon!)
+Storage Solution: We leverage OpenText Content Services API for efficient storage and retrieval of user data.
 Carbon Footprint Reduction Tips:
 We provide users with practical suggestions on how to reduce their carbon footprint, empowering them to make more sustainable choices.
 
